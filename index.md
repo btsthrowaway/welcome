@@ -10,7 +10,8 @@ You can also search for intersections, if you already know the name! <img src="i
 
 Our autocomplete makes searching for roads and intersections even faster! <img src="images/use_autocomplete_to_save_time.png" alt="autocomp" class="inline"/>
 
-Furthermore, you can see Points of interest, such as hospitals, schools, police stations and points of interest. <img src="images/find_pois_like_hospitals.png" alt="autocomp" class="inline" width="25%" height = "25%"/>
+Furthermore, you can see Points of interest, such as hospitals, schools, police stations and community centers.
+<img src="images/find_pois_like_hospitals.png" alt="autocomp" class="inline" width="25%" height = "25%"/>
 <img src="images/schools.png" alt="autocomp" class="inline" width="25%" height = "25%"/>
 <img src="images/police_stations.png" alt="autocomp" class="inline" width="25%" height = "25%"/>
 <img src="images/community_centers.png" alt="autocomp" class="inline" width="25%" height = "25%"/>
