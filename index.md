@@ -16,4 +16,6 @@ Furthermore, you can see Points of interest, such as hospitals, schools, police 
 <img src="images/police_stations.png" alt="autocomp" class="inline" width="22%" height = "22%"/>
 <img src="images/community_centers.png" alt="autocomp" class="inline" width="22%" height = "22%"/>
 
+You can also press the navigate button to start a directions search!
+<img src="images/search_for_an_intersection.png" alt="autocomp" class="inline" width="22%" height = "22%"/>
 
