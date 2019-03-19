@@ -19,13 +19,13 @@ Furthermore, you can see Points of interest, such as hospitals, schools, police 
 # To Get Directions 
 
 Pick an intersection to search.
-<img src="1 pick a point.png" alt="autocomp" class="inline" />
+<img src="images/1 pick a point.png" alt="autocomp" class="inline" />
 
 Press the "navigate to" button.
-<img src="2 to navigate to.png" alt="autocomp" class="inline" />
+<img src="images/2 to navigate to.png" alt="autocomp" class="inline" />
 
 Choose a place to navigate from.
-<img src="Follow the path_and the directions.png" alt="autocomp" class="inline" />
+<img src="images/Follow the path_and the directions.png" alt="autocomp" class="inline" />
 
 Voila! Read the directions for more detailed information.Please note that this image was taken before visual implementation of directions.
 
