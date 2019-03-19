@@ -27,10 +27,7 @@ Press the "navigate to" button.
 Choose a place to navigate from.
 <img src="Follow the path_and the directions.png" alt="autocomp" class="inline" />
 
-Voila! Read the directions* for more detailed information.
-
-
-*image was taken before visual implementation of directions.
+Voila! Read the directions for more detailed information.Please note that this image was taken before visual implementation of directions.
 
 
 
